@@ -44,9 +44,9 @@ SaaS pricing and subscriptions
 Manufacturing product bundles
 Service-based pricing models
 ## 📄 Project Structure
-/frontend   → UI components and pages  
-/backend    → APIs and business logic  
-/database   → Schema and migrations  
+  /frontend   → UI components and pages  
+  /backend    → APIs and business logic  
+  /database   → Schema and migrations  
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
